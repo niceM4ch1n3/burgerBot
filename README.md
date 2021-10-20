@@ -1,2 +1,0 @@
-# burgerbot
-A 🍔-qqbot.
